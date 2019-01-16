@@ -2,3 +2,5 @@ nihao zhelishi git
 这个是中文
 我添加了一句话
 I done ones 
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
